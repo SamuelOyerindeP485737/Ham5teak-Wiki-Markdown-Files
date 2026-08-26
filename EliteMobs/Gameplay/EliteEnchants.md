@@ -2,17 +2,7 @@
  
  In elitemobs, the players can get access to special custom enchants not available through vanilla enchanting ( and for the most part, not included in AE's either). These offer special effects against elite mobs, and can be gotten through procedurally generated loot that is dropped from dungeons. 
 
-
-
-
-
-
-
-
-
-
-
-	## Critical Strikes
+## Critical Strikes
 
 Critical Strikes give you a chance to deal 1.5x damage when fighting Elite Mobs. Each level increases your critical hit chance by 10%.
 

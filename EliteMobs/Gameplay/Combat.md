@@ -1,6 +1,6 @@
 # Damage Multipliers, Level Caps 
 
-Elitemobs uses custom damage calculation, which factors in 
+Elitemobs uses custom damage calculation, which factors in:
 1. Vanilla enchants
 2. Elite item level
 3. Weapon skill level

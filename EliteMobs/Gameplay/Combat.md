@@ -7,15 +7,15 @@ Elitemobs uses custom damage calculation, which factors in:
 
 For ease of comparison, we will be using overall combat level for scenarios discussed ahead, specific TTK for weapons vary. In general, swords are the most worth it, as slow swinging weapons such as axes, do not have proportional Damage. Infact, it checks the difference in levels, between player and mob.   
 
-This allows for early game combat to be relatively well handled by vanilla gear (Diamond armour is considered item level 7 by default). However, as the levels of enemies grows higher, the damage scaling both by them, and the player is exponentially affected by elite level, while linearly affected by vanilla enchants (*Ham5teak allows vanilla enchants upto level 10, so this softcap  is substantially pushed ahead*).  
+This allows for early game combat to be relatively well handled by vanilla gear (Diamond armour is considered item level 7 by default). However, as the levels of enemies grows higher, the damage scaling both by them, and the player is exponentially affected by elite level, while linearly affected by vanilla enchants (*Ham5teak allows vanilla enchants upto level 10, so this softcap is substantially pushed ahead*).  
  
-A level  30 item with sharpness 2, will  often outperform a level 20 item with sharpness 5.   
+A level  30 item with sharpness 2, will often outperform a level 20 item with sharpness 5.   
 
-## important gameplay features 
+## Important gameplay features 
 
-- your combat level is avg of your armor level, and your top two highest weapons. Armor is set to earn 1/3 rd experience of your main hand item, so it will always lag behind in levels. 
+- Your combat level is avg of your armor level, and your top two highest weapons. Armor is set to earn 1/3 rd experience of your main hand item, so it will always lag behind in levels. 
 
-- you will not be able to recieve any item experience from bosses that are too low or too high in level. More over, no elite items wil be dropped from mobs spawned through spawners. ( Status on mobs spawned through AE's like guardians and spirits is still under work)
+- You will not be able to recieve any item experience from bosses that are too low or too high in level. More over, no elite items wil be dropped from mobs spawned through spawners (Status on mobs spawned through AE's like guardians and spirits is still under work).
 
 - Elite mobs is designed, such that vanilla enchants such as prot 4 are very forgiving for low tier elite mobs. Howvever, due to the formula used to calculate damage recieved being exponential, it is borderline useless against high level bosses (35 and above render it nearly usesless).
 

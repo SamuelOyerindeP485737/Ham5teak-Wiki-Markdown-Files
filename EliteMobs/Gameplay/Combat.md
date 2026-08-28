@@ -1,12 +1,15 @@
 # Damage Multipliers, Level Caps 
 
-Elitemobs uses custom damage calculation, which factors in 1. Vanilla enchants 2. Elite item level 3. Weapon skill level (for ease of comparison, we will be using overall combat level for scenarios discussed ahead, specific TTK for weapons vary. In general, swords are the most worth it, as slow swinging weapons such as axes , do not have proportional Damage). Infact, it checks the difference in levels, between player and mob.   
+Elitemobs uses custom damage calculation, which factors in 
+1. Vanilla enchants
+2. Elite item level
+3. Weapon skill level
+
+For ease of comparison, we will be using overall combat level for scenarios discussed ahead, specific TTK for weapons vary. In general, swords are the most worth it, as slow swinging weapons such as axes, do not have proportional Damage. Infact, it checks the difference in levels, between player and mob.   
 
 This allows for early game combat to be relatively well handled by vanilla gear (Diamond armour is considered item level 7 by default). However, as the levels of enemies grows higher, the damage scaling both by them, and the player is exponentially affected by elite level, while linearly affected by vanilla enchants (*Ham5teak allows vanilla enchants upto level 10, so this softcap  is substantially pushed ahead*).  
  
 A level  30 item with sharpness 2, will  often outperform a level 20 item with sharpness 5.   
- 
- 
 
 ## important gameplay features 
 

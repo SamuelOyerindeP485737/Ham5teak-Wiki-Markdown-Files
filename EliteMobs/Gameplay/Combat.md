@@ -56,7 +56,7 @@ Every 7.5 levels of level difference doubles (or halves) a boss's effective dama
 | +15 levels | 4.0x | ~1.25 hits |
 
 
-#### Scenario : Gear Reductions
+#### Scenario: Gear Reductions
 
 | Gear Situation | Gear Reduction | Gear Adjustment | Hits to Kill (Same Skill Level) |
 | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ Every 7.5 levels of level difference doubles (or halves) a boss's effective dama
 - **Level-consistent scaling:** Matched combat at level 25 and level 50 both yield the exact same 5-hit threshold.
 - **Peak gear cap at 10 hits:** Even with maximum tier equipment (+10 levels above the mob), players still take meaningful damage.
 
-#### Scenario : Sword Damage
+#### Scenario: Sword Damage
 
 | Weapon Scenario | Bonus | Weapon Adjustment | Effect on Hits |
 | --- | --- | --- | --- |

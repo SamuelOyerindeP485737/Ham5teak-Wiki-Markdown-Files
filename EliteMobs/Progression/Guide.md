@@ -2,9 +2,9 @@
 
 1. Combat level 
 2. Elitecoins
-3. arena
-4. enchanter, repairer and elite item scrolls 
-5. Dungeons ( Boss vs lair)
+3. Arena
+4. Enchanter, repairer and elite item scrolls 
+5. Dungeons (Boss vs lair)
 
 
 --
@@ -32,15 +32,15 @@ This means, you can repeatedly kill relatively moderate-large amounts of mobs to
  
 ### Taking on your first dungeon 
 
-The server has two exhaustive questlines for begineers , **primis* and **Oasis** as well as multiple individual dungeons. These are either *lairs* with multiple Sections, often minibosses or a *standalone boss fight*.  Not all dungeons are created equal, and theres a few you can target when starting out. 
+The server has two exhaustive questlines for beginners, **Primis** and **Oasis** as well as multiple individual dungeons. These are either *lairs* with multiple Sections, often Mini-Bosses or a *standalone boss fight*.  Not all dungeons are created equal, and theres a few you can target when starting out. 
 - The catacombs : boss can be bow'ed from a distance without taking aggro. Usually the easiest beginneer dungeon.
 - The pirate Ship : while the boss is difficult, there is a large number of pillagers on the ice near the pirate ship, which can be farmed for combat xp and *elite scrolls*
-- The ruins : The boss Thor takes a long time to kill, but you can bow / crossbow from a distance , without taking aggro. 
+- The ruins : The boss Thor takes a long time to kill, but you can bow / crossbow from a distance, without taking aggro. 
 - The steamworks : the boss at the top can be bow'ed from the outermost edge of the platform, which it can't fully reach (may need to run around the arena at times to fully prevent aggro) 
 
 
-Dungeons, much like arena, give *combat exp* , *elitecoins* and procedurally generated Boss Loot . The level of loot depends on the level of the dungeon, available settings are (a)-5 lvls from player's combat level (b) matching player's combat level (c)+5 lvls from player's combat level) ; while the rarity of loot is determined by the difficulty setting of dungeon (normal, hard, mythic) .
-(Note: Dungeons have a lockout period, during which you *cannot recieve any loot or combat experience* from killing mobs / bosses. ) 
+Dungeons, much like arena, give *combat exp* , *elitecoins* and procedurally generated Boss Loot. The level of loot depends on the level of the dungeon, available settings are (a)-5 lvls from player's combat level (b) matching player's combat level (c)+5 lvls from player's combat level); while the rarity of loot is determined by the difficulty setting of dungeon (normal, hard, mythic).
+(Note: Dungeons have a lockout period, during which you *cannot recieve any loot or combat experience* from killing mobs / bosses.) 
 Bosses can drop armor, swords and other tools. These often have *custom potion effects*, the most noteable ones being **stregth** , **resistance** and **regeneration** (upto level IV).  
 
 (*It can be confusing to see protection on swords, or sharpness on armor pieces dropped by bosses. This is intended, as the elitemobs system facctors in enchantments such as power , protection , sharpness etc. across all 6 primary slots i.e 4 armor pieces, main hand and offhand item; to calculate final output of damage taken / recieved.*)
@@ -51,4 +51,4 @@ Now that you have some combat experience in dungeons under your belt, you are fr
 
 You can grind elitecoins from arena/Dungeons , and spend them in /coinshop in exchange for *claimblocks* , *crate keys* among other special items. Or, you can continue to grind arena for combat level, and keep challenging dungeon bosses! 
 
-You can get elite item scrolls for items up to 5 levels higher than your combat level from dungeon Mobs (as the highest level dungeon mobs accessible , are at +5) , which can be applied onto vanilla items to make them elite, and automatically apply elite enchants. **Elite item levels** along side your respective **Combat skill level** for a specific tool/armor are the two primary determinants of how much damage is dealt / recieved. Find more info on this, on the pages for [Combat] and [Elite Enchants] <!-- insert links to combat and eliteenchants page -->.
+You can get elite item scrolls for items up to 5 levels higher than your combat level from dungeon Mobs (as the highest level dungeon mobs accessible , are at +5), which can be applied onto vanilla items to make them elite, and automatically apply elite enchants. **Elite item levels** along side your respective **Combat skill level** for a specific tool/armor are the two primary determinants of how much damage is dealt / recieved. Find more info on this, on the pages for [Combat] and [Elite Enchants] <!-- insert links to combat and eliteenchants page -->.

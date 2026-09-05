@@ -7,7 +7,7 @@
 5. Dungeons (Boss vs lair)
 
 
---
+---
 
 ## Combat level and Elitecoins progression in early game
 

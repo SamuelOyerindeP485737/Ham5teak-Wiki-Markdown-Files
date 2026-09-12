@@ -27,6 +27,7 @@ You can go to the adventurer's guild (via. [/ag]) and walk to the **arena**. Tal
 - The bosses have a chance to drop specific gear (usually the most accessible level 10 / 20 gear you can get your hands on, way easier than taking on a level 20 mythic dungeon). 
 
 The best part about arena, is that it has *no lockout period*. 
+
 This means, you can repeatedly kill relatively moderate-large amounts of mobs to farm elitecoins and combat experience. An arena run upto **wave 18** usually gives around **900 elite coins**. It is a fantastic (and often times the only) way to increase your combat level without being carried initially in dungeons by a teammate. 
 
  
@@ -40,7 +41,9 @@ The server has two exhaustive questlines for beginners, **Primis** and **Oasis**
 
 
 Dungeons, much like arena, give *combat exp* , *elitecoins* and procedurally generated Boss Loot. The level of loot depends on the level of the dungeon, available settings are (a)-5 lvls from player's combat level (b) matching player's combat level (c)+5 lvls from player's combat level); while the rarity of loot is determined by the difficulty setting of dungeon (normal, hard, mythic).
+
 (Note: Dungeons have a lockout period, during which you *cannot recieve any loot or combat experience* from killing mobs / bosses.) 
+
 Bosses can drop armor, swords and other tools. These often have *custom potion effects*, the most noteable ones being **stregth** , **resistance** and **regeneration** (upto level IV).  
 
 (*It can be confusing to see protection on swords, or sharpness on armor pieces dropped by bosses. This is intended, as the elitemobs system facctors in enchantments such as power , protection , sharpness etc. across all 6 primary slots i.e 4 armor pieces, main hand and offhand item; to calculate final output of damage taken / recieved.*)

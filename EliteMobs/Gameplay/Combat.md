@@ -41,10 +41,12 @@ A level  30 item with sharpness 2, will often outperform a level 20 item with sh
 
 **Gear Restrictions**
 EliteMobs gear has level requirements tied to the skill system. To equip an elite item, your skill level for that weapon or armor type must be equal to or higher than the item's level.
+
 Exception: Items at level 20 or below can be equipped by anyone regardless of skill level. This ensures new players can freely use early-game gear without being locked out.
+
 If you try to equip an item above your skill level, you will receive a warning message and the item will provide no elite bonuses.
 
-#### Scenario : Matched gear, across different skill gaps
+#### Scenario: Matched gear, across different skill gaps
 
 Every 7.5 levels of level difference doubles (or halves) a boss's effective damage.  
 

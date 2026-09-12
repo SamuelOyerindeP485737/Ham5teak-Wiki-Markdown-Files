@@ -34,10 +34,10 @@ This means, you can repeatedly kill relatively moderate-large amounts of mobs to
 ### Taking on your first dungeon 
 
 The server has two exhaustive questlines for beginners, **Primis** and **Oasis** as well as multiple individual dungeons. These are either *lairs* with multiple Sections, often Mini-Bosses or a *standalone boss fight*.  Not all dungeons are created equal, and theres a few you can target when starting out. 
-- The catacombs : boss can be bow'ed from a distance without taking aggro. Usually the easiest beginneer dungeon.
-- The pirate Ship : while the boss is difficult, there is a large number of pillagers on the ice near the pirate ship, which can be farmed for combat xp and *elite scrolls*
-- The ruins : The boss Thor takes a long time to kill, but you can bow / crossbow from a distance, without taking aggro. 
-- The steamworks : the boss at the top can be bow'ed from the outermost edge of the platform, which it can't fully reach (may need to run around the arena at times to fully prevent aggro) 
+- The catacombs: boss can be bow'ed from a distance without taking aggro. Usually the easiest beginneer dungeon.
+- The pirate Ship: while the boss is difficult, there is a large number of pillagers on the ice near the pirate ship, which can be farmed for combat xp and *elite scrolls*
+- The ruins: The boss Thor takes a long time to kill, but you can bow / crossbow from a distance, without taking aggro. 
+- The steamworks: the boss at the top can be bow'ed from the outermost edge of the platform, which it can't fully reach (may need to run around the arena at times to fully prevent aggro) 
 
 
 Dungeons, much like arena, give *combat exp* , *elitecoins* and procedurally generated Boss Loot. The level of loot depends on the level of the dungeon, available settings are (a)-5 lvls from player's combat level (b) matching player's combat level (c)+5 lvls from player's combat level); while the rarity of loot is determined by the difficulty setting of dungeon (normal, hard, mythic).

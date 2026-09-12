@@ -1,6 +1,6 @@
 # Elite Enchants 
  
- In elitemobs, the players can get access to special custom enchants not available through vanilla enchanting ( and for the most part, not included in AE's either). These offer special effects against elite mobs, and can be gotten through procedurally generated loot that is dropped from dungeons. 
+ In elitemobs, the players can get access to special custom enchants not available through vanilla enchanting (and for the most part, not included in AE's either). These offer special effects against elite mobs, and can be gotten through procedurally generated loot that is dropped from dungeons. 
 
 ## Critical Strikes
 
